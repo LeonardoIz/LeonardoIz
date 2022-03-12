@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoiz&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoiz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardoiz" alt="leonardoiz" /></a> </p>
-
-- 🔭 I’m currently working on [NullClient and NodeCoin](https://github.com/LeonardoIz/NullClient https://github.com/LeonardoIz/NodeCoin)
+- 🔭 I’m currently working on [NullClient](https://github.com/LeonardoIz/NullClient) and [NodeCoin](https://github.com/LeonardoIz/NodeCoin)
 
 - 📫 How to reach me **leonardoizzo33@gmail.com**
 
