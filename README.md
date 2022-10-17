@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on my [blog](https://leonardoizzo.xyz/blog)
 
-- 📫 You can contact me by [email](mailto:leonardoizzo33@gmail.com) or by [Discord] (http://discord.com/users/711515258732150795)
+- 📫 You can contact me by [Email](mailto:leonardoizzo33@gmail.com) or by [Discord](http://discord.com/users/711515258732150795)
 
 - ⚡ Fun fact **I started programming when I was 7 years old.**
 
