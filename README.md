@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🔭 I’m currently working on [FreedomChat](https://leonardoiz.github.io/projects/freedomchat)
+- 🔭 I’m currently working on [nothing...](https://leonardoizzo.online/projects/current)
 
 - 🌱 I’m currently learning **Swift and Objective C**
 
-- 🎲 I’m planning to work on [my future projects](https://leonardoiz.github.io/projects/future)
+- 🎲 I’m planning to work on [my future projects](https://leonardoizzo.online/projects/future)
 
-- 👨‍💻 All of my projects are available at [https://leonardoiz.github.io/portfolio](https://leonardoiz.github.io/portfolio)
+- 👨‍💻 All of my projects are available in my [portfolio](https://leonardoizzo.online/portfolio)
 
-- 📝 I regularly write articles on [https://leonardoiz.github.io/blog](https://leonardoiz.github.io/blog)
+- 📝 I regularly write articles on [https://leonardoiz.github.io/blog](https://leonardoizzo.online/blog)
 
 - 📫 How to reach me **leonardoizzo33@gmail.com**
+
+- 🤭 Currently my website is down, but soon it will be available again!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
