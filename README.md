@@ -7,9 +7,9 @@
 
 - 🎲 I’m planning to work on [my future projects](https://leonardoizzo.online/projects/future)
 
-- 👨‍💻 All of my projects are available in my [portfolio](https://leonardoizzo.online/portfolio)
+- 👨‍💻 All of my projects are available on my [portfolio](https://leonardoizzo.online/portfolio)
 
-- 📝 I regularly write articles on [https://leonardoiz.github.io/blog](https://leonardoizzo.online/blog)
+- 📝 I regularly write articles on my [blog](https://leonardoizzo.online/blog)
 
 - 📫 How to reach me **leonardoizzo33@gmail.com**
 
