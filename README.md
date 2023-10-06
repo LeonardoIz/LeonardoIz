@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [nothing...](https://leonardoizzo.online/projects/current)
 
-- 🌱 I’m currently learning **Swift and Objective C**
+- 🌱 I’m currently learning **Typescript**
 
 - 🎲 I’m planning to work on [my future projects](https://leonardoizzo.online/projects/future)
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on my [blog](https://leonardoizzo.online/blog)
 
-- 📫 How to reach me **leonardoizzo33@gmail.com**
+- 📫 How to reach me **me@leonardoizzo.online**
 
 - 🤭 Currently my website is down, but soon it will be available again!
 
