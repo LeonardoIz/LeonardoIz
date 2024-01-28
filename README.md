@@ -5,15 +5,11 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 🎲 I’m planning to work on [my future projects](https://leonardoizzo.online/projects/future)
-
-- 👨‍💻 All of my projects are available on my [portfolio](https://leonardoizzo.online/portfolio)
+- 👨‍💻 All of my projects are available on my [portfolio](https://leonardoizzo.online)
 
 - 📝 I regularly write articles on my [blog](https://leonardoizzo.online/blog)
 
 - 📫 How to reach me **me@leonardoizzo.online**
-
-- 🤭 Currently my website is down, but soon it will be available again!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
