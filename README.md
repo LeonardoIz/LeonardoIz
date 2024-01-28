@@ -8,8 +8,8 @@
 - 📝 I regularly write articles on my [blog](https://leonardoizzo.online/blog)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardoiz_) 
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/leonardoizzo_) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardoiz_) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/leonardoizzo_) 
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leonardoiz) 
