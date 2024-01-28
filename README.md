@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardoiz_) 
-[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leonardoizzo_) 
+[![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/leonardoizzo_) 
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leonardoiz) 
