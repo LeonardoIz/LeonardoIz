@@ -57,5 +57,6 @@
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leonardoiz)
 
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+---
+
+[![](https://visitcount.itsvg.in/api?id=LeonardoIz&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
