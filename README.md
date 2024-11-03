@@ -57,13 +57,14 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 
+<!--
 ## 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LeonardoIz&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoIz&theme=dark&hide_border=false" alt="GitHub Streak Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoIz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </div>
-
+-->
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leonardoiz) 
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/leonardoiz) 
