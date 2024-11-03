@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 - 🔭 I’m currently working on **Dune** (Coming soon...)
-- 🌱 I’m currently learning **C++** & **Rust**
+- 🌱 I’m currently learning **Rust**
 - 👨‍💻 All of my projects are available on my [**portfolio**](https://leonardoizzo.online)
 - 📝 I regularly write articles on my [**blog**](https://leonardoizzo.online/blog)
 
