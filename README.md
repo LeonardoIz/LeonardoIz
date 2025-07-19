@@ -2,8 +2,8 @@
 <h3 align="center">🇪🇸 A passionate developer from Spain</h3>
 
 ## 💫 About Me:
-- 🔭 I’m currently working on **WinRoot** (Coming soon...)
-- 🌱 I’m currently learning **Rust**
+- 🔭 I’m currently working on **Spaces** (Coming soon...)
+- 🌱 I’m currently learning **Go**
 - 👨‍💻 All of my projects are available on my [**portfolio**](https://leonardoizzo.online)
 - 📝 I regularly write articles on my [**blog**](https://leonardoizzo.online/blog)
 
