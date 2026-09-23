@@ -6,7 +6,7 @@ Currently exploring Rust, machine learning, systems, and self-hosting.
 
 ### Building
 
-**ZazaDSP** — cool audio plugins, coming soon.
+- **ZazaDSP:** Cool audio plugins, coming soon.
 
 ### Elsewhere
 
